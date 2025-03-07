@@ -1,0 +1,32 @@
+Project Name: TBA
+Description: Building a Dobsonian telescope for the best image quality-to-price ratio.
+
+Progress Overview
+Total Cost: TBA
+Total Time Spent: TBA
+Estimated Time Remaining: TBA
+Tasks
+✅ Completed Tasks:
+
+ Decided on a Dobsonian telescope for the best price-to-quality ratio
+ Chosen to build the telescope body out of wood
+ Found locally available lenses for ~5,000 EGP (https://www.cezma.com/products/ATN/215658/Telescope-Newtonian-Mirror-Diameter-76mm-F.L-900mm)
+Note: Mirror may be spherical instead of parabolic, which could require additional polishing
+ Eyepiece will be salvaged from a National Geographic telescope
+ Calculated potential magnification:
+Mirror focal length: 1300 mm
+Eyepiece focal length: 10 mm
+Magnification: 130x (Enough to see Jupiter, Saturn, Mars, and possibly other planets)
+⏳ To-Do Tasks:
+
+ Buy lenses
+ Determine if the mirror is parabolic or spherical; if spherical, figure out how to make it parabolic
+ Buy wood and build the frame for the telescope
+Purchases
+🛒 Items Bought:
+
+None yet
+📌 Items to Buy:
+
+Lenses
+Wood for telescope frame

@@ -1,0 +1,14 @@
+Project Name: Astrodynamics Orbit Simulator
+Description: Developing an orbit simulator for the solar system with realistic physics.
+
+Progress Overview
+Total Time Spent: 40 hours
+Estimated Time Remaining: 10 hours
+
+✅ Completed Tasks:
+
+ Studied all orbital mechanics formulas up to delta-v
+ Built an orbit simulator that models all planets in the solar system and a meteor
+⏳ To-Do Tasks:
+
+ Implement delta-v calculations in the simulator

@@ -1,0 +1,28 @@
+Project Name: Plant germinator
+Description: Using a sealed enclosure with a nichrome wire, Arduino, 
+
+Progress Overview
+Total Cost: 700 EGP
+Total Time Spent: 20 hours
+Estimated Time Remaining: 10 hours
+✅ Completed Tasks:
+
+ Have all equipment
+ Assembled the enclosure with all the parts needed except the plant itself
+ Wrote the code necessary
+⏳ To-Do Tasks:
+
+ Figure out how to use relay
+ Get safety glasses in case something explodes
+
+🛒 Items Bought:
+ 
+ Arduino
+ Temperature and humidity sensor
+ empty enclosure
+ relay
+ nichrome wire
+ 
+📌 Items to Buy:
+
+ Safety glasses

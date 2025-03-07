@@ -1,0 +1,28 @@
+Project Name: Electrolysis
+Description: Electrolysis project to generate and store Hydrogen and Oxygen gases efficiently.
+
+Progress Overview
+Total Cost: TBA
+Total Time Spent: 30 hours
+Estimated Time Remaining: 200 hours
+Tasks
+✅ Completed Tasks:
+
+ Built a temporary setup using:
+ Two whisks and a metal cleaning pad as electrodes
+ Baking soda as an electrolyte
+ 12V 5A power supply for operation
+ Tested the setup but observed low gas production and lacked a method to store or distill the output
+⏳ To-Do Tasks:
+
+ Find a way to increase gas generation efficiency
+ Design a system to store or distill the output gases
+
+🛒 Items Bought:
+
+2 whisks and the steel cloths to act as electrodes
+
+
+📌 Items to Buy:
+
+TBA (depending on improvements)

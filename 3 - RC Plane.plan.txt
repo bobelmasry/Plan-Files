@@ -1,0 +1,36 @@
+Project Name: Remote Controlled (RC) Plane
+Description: Building a tiny RC plane using two drone motors, with lightweight PLA for the body and LTE-based control.
+
+Progress Overview
+Total Cost: 3000 EGP
+Total Time Spent: 100-150 hours
+Estimated Time Remaining: 90-140 hours
+Tasks
+✅ Completed Tasks:
+
+ Decided to use two drone motors for propulsion
+ Chosen lightweight PLA as the primary material
+ Planned to use two servos for control surfaces (flaps)
+ Decided on LTE-based control and navigation, leveraging existing infrastructure
+Will use a gyro and GPS for stability and positioning
+⏳ To-Do Tasks:
+
+ Get a battery to power everything
+ Get a motor controller
+ Build the frame
+ Add servos to flaps
+ Get camera to return data
+ Write the code to make it all work together
+
+🛒 Items Bought:
+
+Using drone motors that I already have
+📌 Items to Buy:
+
+Lightweight PLA
+Battery
+Motor controller
+Gyroscope
+GPS chip
+LTE chip
+servos for flaps

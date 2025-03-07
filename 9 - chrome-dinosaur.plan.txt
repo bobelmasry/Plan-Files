@@ -1,0 +1,17 @@
+Project Name: Chrome Dinosaur AI
+Description: Developing an agent with a deep neural network model.
+
+Progress Overview
+Total Time Spent: 20 hours
+Estimated Time Remaining: 50 hours
+Tasks
+✅ Completed Tasks:
+
+ Wrote the code for the agent
+ Developed and trained deep neural network models
+ Achieved a score exceeding 400
+
+⏳ To-Do Tasks:
+
+ Identify areas for further improvement beyond the current performance
+ Figure out how to save and later reload the trained model

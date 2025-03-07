@@ -1,0 +1,27 @@
+Project Name: Electromagnetic Train
+Description: Building a levitating electromagnetic train using coils, a cart with a permanent magnet, a high wattage power supply and, hall effect sensors and high power transistors based on Tom Stanton's "Electromagnetic Rail Launcher" (https://www.youtube.com/watch?v=_4TGb3MsSjE&ab_channel=TomStanton)
+
+Progress Overview
+Total Cost: 2000 EGP
+Total Time Spent: 20 hours
+Estimated Time Remaining: 80 hours
+
+✅ Completed Tasks:
+
+ Got the Hall effect sensors
+ Got the permanent magnets
+ Figured out coil wire thickness (0.8 mm on Tom Stanton's video)
+ Figured out to add ferromagnetic material inside the coil to increase magnetic field strength
+⏳ To-Do Tasks:
+
+ Build frame and buy items needed
+
+🛒 Items Bought:
+
+Hall effect sensors
+Permanent magnets
+📌 Items to Buy:
+
+Electromagnetic wiring
+Batteries or power supply
+High-power transistors

@@ -1,0 +1,15 @@
+Project Name: IMDB ripoff but with all the Arabic movies and TV shows
+Description: Web scraping project using ElCinema for consistent movie data and actor images, with a UI built using ShadCN.
+
+Progress Overview
+Total Time Spent: 0
+Estimated Time Remaining: 80
+
+✅ Completed Tasks:
+
+ Determined that ElCinema is the best website for scraping due to its consistent layout and availability of actor images with English movie titles
+ Decided to use ShadCN's UI library for the frontend
+⏳ To-Do Tasks:
+
+ Implement the web scraper
+ Build the UI using ShadCN

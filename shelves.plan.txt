@@ -1,0 +1,31 @@
+Project Name: TBA
+Description: TBA
+
+Progress Overview
+Total Cost: TBA
+Total Time Spent: TBA
+Estimated Time Remaining: TBA
+Tasks
+✅ Completed Tasks:
+
+ Determined shelf dimensions:
+Depth: 20 cm
+Thickness: 1.5 cm
+Distance between shelves (vertical): 30 cm
+Varying lengths
+ Shelf to the right of the blue desk will be 80 cm in length
+ Decided on mounting method: slab of wood with L brackets
+Metal L brackets cost around 10 EGP each
+May consider 3D printing them instead
+⏳ To-Do Tasks:
+
+ Get a wall scanner to avoid drilling into pipes or electrical wiring
+Purchases
+🛒 Items Bought:
+
+None yet
+📌 Items to Buy:
+
+Wall scanner
+L brackets (or 3D print alternative)
+Wooden slabs

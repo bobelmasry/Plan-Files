@@ -1,0 +1,27 @@
+Project Name: TBA
+Description: TBA
+
+Progress Overview
+Total Cost: TBA
+Total Time Spent: TBA
+Estimated Time Remaining: TBA
+Tasks
+✅ Completed Tasks:
+
+ Increased servo frequency (time.sleep) from 0.05 to 0.5 to prevent stopping due to a steep voltage drop
+Alternatively: Use a motor controller and use the Raspberry Pi only for PWM
+⏳ To-Do Tasks:
+
+ Build a platform to be glued to the servo
+ Buy a camera, glue it on the platform, and use it instead of my phone
+ Add a button with an LED indicator to show whether it's recording or not
+ (Optional) Add a tiny display
+Purchases
+🛒 Items Bought:
+
+None yet
+📌 Items to Buy:
+
+Camera
+Button with LED indicator
+Tiny display (optional)

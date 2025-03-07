@@ -1,0 +1,13 @@
+Project Name: Command and Conquer Generals Replica
+Description: Developing a Command and Conquer Generals Replica using Unity to improve graphics over the original and increase features.
+
+Progress Overview
+Total Time Spent: 0 Hours
+Estimated Time Remaining: 500 hours
+
+✅ Completed Tasks:
+
+ Determined that Unity is the best approach for implementation
+⏳ To-Do Tasks:
+
+ Implement the project in Unity
