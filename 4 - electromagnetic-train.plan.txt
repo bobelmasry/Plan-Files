@@ -12,9 +12,10 @@ Estimated Time Remaining: 80 hours
  Got the permanent magnets
  Figured out coil wire thickness (0.8 mm on Tom Stanton's video)
  Figured out to add ferromagnetic material inside the coil to increase magnetic field strength
+ To mount the coils to the rails use the bolts and nuts
 ⏳ To-Do Tasks:
 
- Build frame and buy items needed
+ Tom Stanton used 2x T slot aluminum bars stacked on top of one another (https://store.fut-electronics.com/collections/openbuilds/products/v-slot-20mm-x-40mm-linear-rail-1m-black-anodized)
 
 🛒 Items Bought:
 
@@ -22,6 +23,7 @@ Hall effect sensors
 Permanent magnets
 📌 Items to Buy:
 
-Electromagnetic wiring
+Electromagnetic wiring (https://www.amazon.eg/-/en/Cooper-Wiring-Electromagnetic-wire-0-25/dp/B09H3MQWD8/ref=sr_1_8?th=1)
 Batteries or power supply
 High-power transistors
+

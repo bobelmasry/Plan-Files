@@ -1,10 +1,10 @@
-Project Name: TBA
+Project Name: Dobsonian telescope
 Description: Building a Dobsonian telescope for the best image quality-to-price ratio.
 
 Progress Overview
-Total Cost: TBA
-Total Time Spent: TBA
-Estimated Time Remaining: TBA
+Total Cost: 5000-7000 EGP
+Total Time Spent: 5 hours
+Estimated Time Remaining: 30 hours
 Tasks
 ✅ Completed Tasks:
 

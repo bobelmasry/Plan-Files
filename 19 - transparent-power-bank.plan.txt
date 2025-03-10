@@ -2,7 +2,7 @@ Project Name: Transparent Power bank using 18650 batteries
 Description: Power system using 18650 batteries with fast charging and a possible acrylic enclosure.
 
 Progress Overview
-Total Cost: around 650 EGP
+Total Cost: around 700 EGP
 Total Time Spent: 0 hours
 Estimated Time Remaining: 10 Hours
 Tasks
@@ -10,7 +10,7 @@ Tasks
 
  Determined that 18650 batteries are the best choice
 Quantity needed: 4
-Cost per battery: ~100 EGP
+Cost per battery: ~135 EGP
  Identified a suitable battery charging/discharging board
 Features: Type-C & fast charging
 Cost: ~200 EGP
@@ -28,12 +28,12 @@ Purchases
 None yet
 📌 Items to Buy:
 
-4x 18650 batteries (~400 EGP total)
+4x 18650 batteries (~540 EGP total)
+(https://makerselectronics.com/product/rechargeable-li-ion-samsung-battery-high-drain-inr-18650-30q-3000mah-3-6v-15a-used-like-new)
 
-Battery charging/discharging board (~200 EGP) (https://makerselectronics.com/product/dual-usb-5v-2-4a-micro-type-c-usb-power-bank-18650-charging-module-with-ip5407-ic?srsltid=AfmBOoqbi_nle9xbe8HSS1yBx9pJeXuyPz6LB8BPQubCQMC629wFqVxP)
+Battery charging/discharging board (~135 EGP) (https://makerselectronics.com/product/charging-module-board-18650-mobile-power-bank-5v-2-4a-dual-usb-micro-type-c-usb-with-led-display)
+
+Holder for the 18650 batteries (~30 EGP)
+(https://makerselectronics.com/product/18650-battery-case-holder-4-cells)
 
 Acrylic sheet (if enclosure is needed)
-
-Nickel strips to connect the batteries together
-
-Insulation paper to put between the batteries to avoid fires

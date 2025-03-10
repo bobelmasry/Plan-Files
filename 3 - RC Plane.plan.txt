@@ -27,7 +27,7 @@ Will use a gyro and GPS for stability and positioning
 Using drone motors that I already have
 📌 Items to Buy:
 
-Lightweight PLA
+Lightweight PLA (https://3dsmart-shop.com/product/esun-pla-lw-1-75mm-3d-filament-1kg/)
 Battery
 Motor controller
 Gyroscope
