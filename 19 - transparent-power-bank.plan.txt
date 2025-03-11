@@ -25,7 +25,9 @@ Acrylic enclosure
 Purchases
 🛒 Items Bought:
 
-None yet
+Batteries
+The battery holder (but it turned out to be in series and I need parallel)
+Battery Charging board (lit on fire as batteries were in series)
 📌 Items to Buy:
 
 4x 18650 batteries (~540 EGP total)
